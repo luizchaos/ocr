@@ -7,6 +7,7 @@ Simple ocr script written in python following the tutorial https://www.geeksforg
 Install tesseract with:
 
 `sudo apt-get install tesseract-ocr`
+
 `sudo apt-get install poppler-utils`
 
 # MacOS
@@ -14,4 +15,5 @@ Install tesseract with:
 Install tesseract with:
 
 `brew install tesseract`
+
 `brew install poppler`
